@@ -11,7 +11,7 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow World!</h2></center>
-  Welcomeeeee to ${PREFIX}'s app. Replace this text with your ownnnnnn...
+  Welcomeeeee to ${PREFIX}'s apppppp. Replace this text with your ownnnnnn...
   <!-- END -->
 
   </div>
